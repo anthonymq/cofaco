@@ -25,7 +25,7 @@ module.exports = {
         background_color: "#ffffff",
         theme_color: "#fed136",
         display: "minimal-ui",
-        icon: "content/assets/logo-inevia-signature-GA.jpg",
+        icon: "content/assets/favicon-cofaco.png",
       },
     },
     "gatsby-transformer-remark",
