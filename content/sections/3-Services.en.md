@@ -30,6 +30,25 @@ réseaux de chaleur"
     imageFileName: "services/zacdeshalles1.jpeg",
     header: "Maîtrise d'oeuvre de réalisation",
     content: "Gestion technique, gestion administrative et financière des projets et des travaux"
+  },
+  {
+    # iconName: "LockIcon",
+    imageFileName: "services/zacdeshalles1.jpeg",
+    subHeader: "",
+    header: "Assistance à la maitrise d’ouvrage",
+    content: "..."
+  },
+  {
+    # iconName: "LockIcon",
+    imageFileName: "services/zacdeshalles1.jpeg",
+    header: "Maitrise d’œuvre d’exécution",
+    content: "..."
+  },
+  {
+    # iconName: "LockIcon",
+    imageFileName: "services/zacdeshalles1.jpeg",
+    header: "Organisation Pilotage Coordination (O.P.C.)",
+    content: "..."
   }
 ]
 ---

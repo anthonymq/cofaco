@@ -2,9 +2,13 @@
 anchor: "La Société"
 header: "La société"
 # subheader: "Lorem ipsum dolor sit amet consectetur."
-content: "COFACO, installée en Touraine depuis presque 30ans, est un bureau d'études spécialisé dans l'ingénierie des VRD et des aménagements urbains.<br/>
-Pour chacun des projets que nous menons, nous nous engageons à intégrer une démarche environnementale et à jouer pleinement de notre rôle d’ingénieur conseil sur toutes les étapes du projet.
-Forts de notre expérience, nous avons pour objectif d’être proches de nos clients, réactifs et soucieux de respecter nos engagements."
+content: "<strong>COFACO</strong>, installée en Touraine depuis plus de 10 ans, est un bureau d’études et d’ingénierie de la construction T.C.E. (Tous Corps d’Etat) et aménagement extérieur, assurant des missions de Maîtrise d’œuvre dans le domaine du bâtiment.</br></br>
+Nos principales actions afin de réussir nos projets aux mieux, de la conception à la réalisation, sont : 
+<ul>
+<li><strong>Concevoir et Échanger</strong>, à travers l’étude de site, l’analyse de projet ainsi que les échanges avec les maîtres d’ouvrages et les différents partenaires.</li>
+<li><strong>Comprendre et Comparer</strong>, en recueillant et analysant les dossiers, par la réalisation des différentes phases d’un projet et la réalisation d’une estimation.</li>
+<li><strong>Décider</strong>, grâce à la prise en compte et l’aide à la décision finale, la réalisation des plans et des notices techniques, la conception du dossier d’appel d’offres, la direction de chantier et la réception de chantier.</li>
+</ul>"
 timeline: [
   {
     imageFileName: "about/1.jpg",
