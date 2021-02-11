@@ -16,6 +16,8 @@ const Portfolio = ({ className, frontmatter }) => {
     return null;
   }
 
+  const url = window.location.href ? window.location.href : 'tamere';
+  console.log(url);
   const { anchor, header: rootHeader, subheader: rootSubHeader, portfolios } = frontmatter;
 
   return (
@@ -33,6 +35,7 @@ const Portfolio = ({ className, frontmatter }) => {
               subheader={subheader}
               content={content}
               imageFileNameDetail={imageFileNameDetail}
+              url={url}
             />
           ),
         )}

@@ -4,34 +4,18 @@ header: "Nos références"
 # subheader: "Lorem ipsum dolor sit amet consectetur."
 portfolios: [
   {
-    imageFileName: "portfolio/FicheVrdBourges.jpg",
-    imageFileNameDetail: "portfolio/FicheVrdBourges.jpg",
-    header: "Construction",
-    subheader: "Maison de la Culture à Bourges",
-    content: "",
+    imageFileName: "portfolio/INDUS.png",
+    imageFileNameDetail: "logos/INDUS.png",
+    header: "Commercial et Industriel",
+    subheader: "",
+    content: 'Fiche_Ref-CHASSAY_AUTO.pdf',
     extraInfo: []
   },
   {
-    imageFileName: "portfolio/FicheVrdMlp.jpg",
-    imageFileNameDetail: "portfolio/FicheVrdMlp.jpg",
-    header: "Aménagement ZAC",
-    subheader: "Ménardière-Lande-Pinauderie à Saint-Cyr-Sur-Loire",
-    content: "",
-    extraInfo: []
-  },
-  {
-    imageFileName: "portfolio/FicheRailMarseille.jpg",
-    imageFileNameDetail: "portfolio/FicheRailMarseille.jpg",
-    header: "Rail",
-    subheader: "Réfection des voies de Marseille à Aubagne",
-    content: "",
-    extraInfo: []
-  },
-  {
-    imageFileName: "portfolio/FicheTramTours.jpg",
-    imageFileNameDetail: "portfolio/FicheTramTours.jpg",
-    header: "Tramway",
-    subheader: "Première ligne de Tours",
+    imageFileName: "portfolio/LOG-LOCPRO.png",
+    imageFileNameDetail: "portfolio/LOG-LOCPRO.png",
+    header: "Logement et Locaux Professionnel",
+    subheader: "",
     content: "",
     extraInfo: []
   },

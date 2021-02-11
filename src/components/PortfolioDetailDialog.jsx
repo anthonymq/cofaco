@@ -1,5 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
+import JsxParser from 'react-jsx-parser';
+
 
 import { Modal, Button } from "react-bootstrap";
 import Image from "components/Image";
@@ -15,6 +17,7 @@ const PortfolioDetailDialog = ({
   content,
   ...restProps
 }) => {
+  const url = window.location.href ? window.location.href : 'tamere';
   return (
     <Modal
       {...restProps}
@@ -28,12 +31,16 @@ const PortfolioDetailDialog = ({
       </Modal.Header>
       <Modal.Body>
         <p className="item-intro text-muted">{subheader}</p>
+        <p className="item-intro text-muted">{url}</p>
         <Image
           className="img-fluid d-block"
           fileName={imageFileName}
           alt={imageAlt || header || subheader}
         />
-        <p>{content}</p>
+        <iframe title="1" src={`https://docs.google.com/viewerng/viewer?url=${url}${content}&embedded=true`} frameBorder="0" height="100%" width="100%" />
+        <JsxParser
+          jsx={content}
+        />
       </Modal.Body>
       <Modal.Footer>
         <div className="mx-auto">
@@ -54,6 +61,7 @@ PortfolioDetailDialog.propTypes = {
   header: PropTypes.string,
   subheader: PropTypes.string,
   content: PropTypes.string,
+  url: PropTypes.string,
 };
 
 PortfolioDetailDialog.defaultProps = {
@@ -63,6 +71,7 @@ PortfolioDetailDialog.defaultProps = {
   header: "",
   subheader: "",
   content: "",
+  url: "",
 };
 
 export default PortfolioDetailDialog;
