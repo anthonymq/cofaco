@@ -17,7 +17,7 @@ const PortfolioDetailDialog = ({
   content,
   ...restProps
 }) => {
-  const url = window.location.href ? window.location.href : 'tamere';
+  const url = window.location.href ? window.location.href : '';
   return (
     <Modal
       {...restProps}
@@ -61,7 +61,6 @@ PortfolioDetailDialog.propTypes = {
   header: PropTypes.string,
   subheader: PropTypes.string,
   content: PropTypes.string,
-  url: PropTypes.string,
 };
 
 PortfolioDetailDialog.defaultProps = {
@@ -71,7 +70,6 @@ PortfolioDetailDialog.defaultProps = {
   header: "",
   subheader: "",
   content: "",
-  url: "",
 };
 
 export default PortfolioDetailDialog;
