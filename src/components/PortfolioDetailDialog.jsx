@@ -17,7 +17,8 @@ const PortfolioDetailDialog = ({
   content,
   ...restProps
 }) => {
-  const url = '';
+  
+  var url = '';
   if (typeof window !== 'undefined') {
     url = window.location.href ? window.location.href : '';
   }
