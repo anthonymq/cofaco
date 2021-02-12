@@ -10,15 +10,15 @@ clients: [
     href: "https://www.exia.fr/"
   },
   {
-    imageFileName: "logos/ataraxia_promotion-immobiliere.jpg",
+    imageFileName: "logos/ataraxia_promotion-immobiliere.png",
     href: "https://www.ataraxiapromotion.fr/fr/accueil.html"
   },
   {
-    imageFileName: "logos/EVEN-PARC-AUTO.jpg",
+    imageFileName: "logos/EVEN-PARC-AUTO.png",
     href: "https://evenparcautomobiles.com/"
   },
   {
-    imageFileName: "logos/MAE.jpg",
+    imageFileName: "logos/MAE.png",
     href: "https://mae-innovation.com/"
   },
   {
