@@ -43,7 +43,7 @@ clients: [
     href: "https://www.lafarge.fr/"
   },
   {
-    imageFileName: "logos/saint-cyr-sur-loire.png",
+    imageFileName: "logos/saint-cyr-sur-loire-1.png",
     href: "https://www.saint-cyr-sur-loire.com/"
   },
   {

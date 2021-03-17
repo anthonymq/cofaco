@@ -33,22 +33,22 @@ services: [
 #   },
   {
     # iconName: "LockIcon",
-    imageFileName: "services/zacdeshalles1.jpeg",
+    imageFileName: "services/Chassay.png",
     subHeader: "",
     header: "Assistance à la maitrise d’ouvrage",
-    content: "..."
+    content: "Etudes préalables, aide à la décision, choix des procédures, diagnostics, dossiers de création et de réalisation"
   },
   {
     # iconName: "LockIcon",
-    imageFileName: "services/zacdeshalles1.jpeg",
+    imageFileName: "services/Residence-Beaumont.png",
     header: "Maitrise d’œuvre d’exécution",
-    content: "..."
+    content: "Etudes préalables, consultation des entreprises, assistance à la passation des contrats de travaux, visa des études d'exécution, direction et exécution des travaux, réception des travaux, dossier des ouvrages exécutés, achèvement de la mission"
   },
   {
     # iconName: "LockIcon",
     imageFileName: "services/zacdeshalles1.jpeg",
     header: "Organisation Pilotage Coordination (O.P.C.)",
-    content: "..."
+    content: "Planification générale du projet, suivi d'avancement des tâches planifiées, suivi d'avancement des documents d'exécution et administratifs"
   }
 ]
 ---
