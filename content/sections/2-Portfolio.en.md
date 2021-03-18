@@ -8,7 +8,7 @@ portfolios: [
     imageFileNameDetail: "logos/INDUS.png",
     header: "Commercial et Industriel",
     subheader: "",
-    content: 'Fiche_Ref-CHASSAY_AUTO.pdf',
+    content: '',
     extraInfo: []
   },
   {

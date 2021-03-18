@@ -8,8 +8,8 @@ import PortfolioItem from "components/PortfolioItem";
 import PageSection from "components/PageSection";
 import Icon from "components/Icon";
 import "./Portfolio.scss";
-import rail from "./inevia-references-rail-tramway.pdf"
-import vrd from "./inevia-references-vrd.pdf"
+import refComIndus from "./cofaco-commercial-industriel.pdf";
+import refLogLocPro from "./cofaco-logements-locauxpro.pdf";
 
 const Portfolio = ({ className, frontmatter }) => {
   if (!frontmatter) {
@@ -40,9 +40,9 @@ const Portfolio = ({ className, frontmatter }) => {
       </Row>
       <Row className="text-center">
         <Col>
-        <Button variant="outline-dark" href={rail}><Icon iconName="DownloadIcon" /> Télécharger nos références Rail et Tramway</Button>
+        <Button variant="outline-dark" href={refComIndus}><Icon iconName="DownloadIcon" /> Télécharger nos références Commercial et Industriel</Button>
         </Col>
-        <Col><Button variant="outline-dark" href={vrd}><Icon iconName="DownloadIcon" /> Télécharger nos références VRD</Button></Col>
+        <Col><Button variant="outline-dark" href={refLogLocPro}><Icon iconName="DownloadIcon" /> Télécharger nos références Logements et Locaux Professionnel</Button></Col>
       </Row>
     </PageSection>
   );
