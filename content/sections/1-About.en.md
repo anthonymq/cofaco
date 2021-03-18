@@ -8,7 +8,10 @@ Nos principales actions afin de réussir nos projets aux mieux, de la conception
 <li><strong>Concevoir et Échanger</strong>, à travers l’étude de site, l’analyse de projet ainsi que les échanges avec les maîtres d’ouvrages et les différents partenaires.</li>
 <li><strong>Comprendre et Comparer</strong>, en recueillant et analysant les dossiers, par la réalisation des différentes phases d’un projet et la réalisation d’une estimation.</li>
 <li><strong>Décider</strong>, grâce à la prise en compte et l’aide à la décision finale, la réalisation des plans et des notices techniques, la conception du dossier d’appel d’offres, la direction de chantier et la réception de chantier.</li>
-</ul>"
+</ul>
+<p>
+  <strong>COFACO</strong> est une société du groupe <strong>OL FINANCES</strong> qui regroupe <a href=\"http://icec-construction.fr/\" data-type=\"URL\" data-id=\"http://icec-construction.fr/\">ICEC CONSTRUCTION</a> – Contractant général – et <a href=\"http://www.inevia.pro\" data-type=\"URL\" data-id=\"www.inevia.pro\">INEVIA</a> – Bureau d’études Voiries Réseaux Divers.
+</p>"
 timeline: [
   {
     imageFileName: "about/1.jpg",
