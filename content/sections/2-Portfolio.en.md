@@ -12,8 +12,8 @@ portfolios: [
     extraInfo: []
   },
   {
-    imageFileName: "portfolio/LOG-LOCPRO.png",
-    imageFileNameDetail: "portfolio/LOG-LOCPRO.png",
+    imageFileName: "portfolio/log-locpro1.png",
+    imageFileNameDetail: "portfolio/log-locpro1.png",
     header: "Logement et Locaux Professionnel",
     subheader: "",
     content: "",
