@@ -49,6 +49,28 @@ clients: [
   {
     imageFileName: "logos/CITYA.png",
     href: "https://www.citya.com/"
+  },
+
+
+  {
+    imageFileName: "logos/2DCONSTRUCTION.png",
+    href: "https://2dconstruction-grandouest.fr/"
+  },
+  {
+    imageFileName: "logos/ALPABIO.png",
+    href: "https://www.eurofins.fr/hygi%C3%A8ne-hospitali%C3%A8re"
+  },
+  {
+    imageFileName: "logos/CIR.png",
+    href: "http://www.groupecir.com/"
+  },
+  {
+    imageFileName: "logos/QUATROPROMOTION.png",
+    href: "http://www.quatro-promotion.fr/"
+  },
+  {
+    imageFileName: "logos/ROC2.png",
+    href: "http://www.groupe-villemain.eu/"
   }
 ]
 ---

@@ -46,7 +46,7 @@ services: [
   },
   {
     # iconName: "LockIcon",
-    imageFileName: "services/zacdeshalles1.jpeg",
+    imageFileName: "services/PHOTO-REF-OPC.png",
     header: "Organisation Pilotage Coordination (O.P.C.)",
     content: "Planification générale du projet, suivi d'avancement des tâches planifiées, suivi d'avancement des documents d'exécution et administratifs"
   }
