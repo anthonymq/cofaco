@@ -53,8 +53,8 @@ clients: [
 
 
   {
-    imageFileName: "logos/2DCONSTRUCTION.png",
-    href: "https://2dconstruction-grandouest.fr/"
+    imageFileName: "logos/insitu.png",
+    href: "http://www.insitu-promotion.fr/"
   },
   {
     imageFileName: "logos/ALPABIO.png",
